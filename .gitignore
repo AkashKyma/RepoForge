@@ -1,0 +1,14 @@
+node_modules
+.next
+npm-debug.log*
+.env*
+.openclaw/
+.zero-human/
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+docs/PAP-458-ARCHITECT-PLAN.md
